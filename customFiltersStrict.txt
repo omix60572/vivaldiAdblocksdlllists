@@ -22,3 +22,17 @@ rutube.ru##section[aria-label="Выбор RUTUBE"]
 rutube.ru##.safe-mode-header-entrypoint-module__entrypoint
 rutube.ru##.wdp-carousel-module__carouselWrapper
 rutube.ru##.wdp-popup-overlay-module__overlay
+
+vkvideo.ru##.vkuiBanner__host
+vkvideo.ru###movies
+vkvideo.ru###recommended_live_videos
+vkvideo.ru###serials
+vkvideo.ru###sport_videos
+vkvideo.ru###trends_new_year_block
+vkvideo.ru###tvshow_playlists
+vkvideo.ru###vk_video_short_videos_top
+vkvideo.ru##a[href="https://vkvideo.ru/legal/recommendations"]
+vkvideo.ru##div[data-testid="videos_short_video_slider_vk_video_short_videos_top"]
+vkvideo.ru##div[data-testid="videos_slider_horizontal_recommended_live_videos"]
+vkvideo.ru##div[data-testid="albums_slider_vertical_tvshow_playlists"]
+vkvideo.ru##div[data-testid="videos_slider_horizontal_sport_videos"]
