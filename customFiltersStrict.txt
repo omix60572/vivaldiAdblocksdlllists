@@ -38,3 +38,6 @@ vkvideo.ru##div[data-testid="albums_slider_vertical_tvshow_playlists"]
 vkvideo.ru##div[data-testid="videos_slider_horizontal_sport_videos"]
 vkvideo.ru##div[data-testid="videos_showcase_list_showcase_horizontal_cards_movies_for_you"]
 vkvideo.ru##div[data-testid="videos_showcase_list_showcase_horizontal_cards_for_kids_trends_block"]
+
+vk.com##.stories_feed_wrap
+vk.com##.StoryFeedBlockWrapper

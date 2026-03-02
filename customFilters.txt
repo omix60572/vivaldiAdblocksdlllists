@@ -24,3 +24,6 @@ disk.yandex.ru##.root__bottom-ad
 
 rutube.ru##.premium-subscription-entrypoint-module__premium-entrypoint
 rutube.ru###ADFOX_FEED_BANNER
+
+vk.com##div[data-testid="feed_apps_right_block"]
+vk.com###feed_recommends
