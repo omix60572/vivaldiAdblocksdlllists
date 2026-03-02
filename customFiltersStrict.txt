@@ -36,3 +36,5 @@ vkvideo.ru##div[data-testid="videos_short_video_slider_vk_video_short_videos_top
 vkvideo.ru##div[data-testid="videos_slider_horizontal_recommended_live_videos"]
 vkvideo.ru##div[data-testid="albums_slider_vertical_tvshow_playlists"]
 vkvideo.ru##div[data-testid="videos_slider_horizontal_sport_videos"]
+vkvideo.ru##div[data-testid="videos_showcase_list_showcase_horizontal_cards_movies_for_you"]
+vkvideo.ru##div[data-testid="videos_showcase_list_showcase_horizontal_cards_for_kids_trends_block"]
