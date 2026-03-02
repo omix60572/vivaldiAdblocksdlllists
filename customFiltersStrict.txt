@@ -9,3 +9,5 @@ mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
 mail.yandex.ru##div[data-testid="page-layout_right-column_container"]
 
 mail.ru##.dzen-feed
+mail.ru###feed-tabs
+mail.ru##.feed__content
