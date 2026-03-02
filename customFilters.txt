@@ -21,3 +21,11 @@ avito.ru##[class*="index-advRootWidgetNoStories"]
 avito.ru##[class*="advert-mimicry-block-wrapper"]
 
 disk.yandex.ru##.root__bottom-ad
+
+rutube.ru##.premium-subscription-entrypoint-module__premium-entrypoint
+rutube.ru##.safe-mode-header-entrypoint-module__entrypoint
+rutube.ru##.wdp-carousel-module__carouselWrapper
+rutube.ru##.wdp-popup-overlay-module__overlay
+rutube.ru###ADFOX_FEED_BANNER
+rutube.ru##section[aria-label="Shorts"]
+rutube.ru##section[aria-label="Выбор RUTUBE"]
