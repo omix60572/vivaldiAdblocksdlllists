@@ -46,3 +46,4 @@ vk.com###fastchat-reforged
 
 yandex.ru##.ImageGeneration
 yandex.ru##.JustifierRowLayout-Incut
+yandex.ru##.SearchPrevention
