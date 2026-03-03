@@ -8,7 +8,6 @@ mail.yandex.ru###js-mail-layout-content-header
 mail.yandex.ru###js-mail-layout-content-header-v1
 mail.yandex.ru##a[testid="orb-global-bar-monetization-item"]
 mail.yandex.ru##div[data-test-id="promosideSheet"]
-mail.yandex.ru##div[data-testid="get-premium360"]
 mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
 mail.yandex.ru##div[data-testid="page-layout_right-column_container"]
 
