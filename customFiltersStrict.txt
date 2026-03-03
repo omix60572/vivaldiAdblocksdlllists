@@ -43,3 +43,5 @@ vk.com##.stories_feed_wrap
 vk.com##.StoryFeedBlockWrapper
 vk.com##.EasterEggsContainer
 vk.com###fastchat-reforged
+
+yandex.ru##.ImageGeneration

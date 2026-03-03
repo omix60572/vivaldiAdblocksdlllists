@@ -30,3 +30,7 @@ vk.com###feed_recommends
 vk.com###ads_wrapper
 vk.com###ads_with_extra
 vk.com###ads_leftmenu
+
+yandex.ru##.DistributionPopup
+yandex.ru##.banner
+yandex.ru###banner
