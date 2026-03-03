@@ -48,4 +48,5 @@ yandex.ru##.ImageGeneration
 yandex.ru##.JustifierRowLayout-Incut
 yandex.ru##.SearchPrevention
 
-hh.ru##[class*="footer-mobile-banner"]
+hh.ru##div[class*="footer-mobile-banner"]
+hh.ru##span[data-qa="footer-recommendTechInfo"]
