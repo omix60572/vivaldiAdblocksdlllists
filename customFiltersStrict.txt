@@ -57,3 +57,5 @@ hh.ru##.HH-ProxyExternalServiceLoader-careerPlatformFront
 hh.ru##div[class*="footer-mobile-banner"]
 hh.ru##div[class*="footer-app-banner-redesign"]
 hh.ru##span[data-qa="footer-recommendTechInfo"]
+
+translate.yandex.ru##.side-block
