@@ -3,6 +3,7 @@
 
 mail.yandex.ru##.MenuItem_get-premium360
 mail.yandex.ru##.promozavr-anchor-serviceAliceProButton
+mail.yandex.ru##.Popup2_view_default
 mail.yandex.ru###js-mail-layout-content-header
 mail.yandex.ru###js-mail-layout-content-header-v1
 mail.yandex.ru##a[testid="orb-global-bar-monetization-item"]
