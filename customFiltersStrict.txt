@@ -80,7 +80,4 @@ kinopoisk.ru##div[class*="styles_abbreviated"]
 kinopoisk.ru##button[class*="style_buttonPlus"]
 kinopoisk.ru##iframe[class="yandex_music"]
 
-dzen.ru##div[class*="dzen-desktop--carousel-view"]
-! dzen.ru##article[class*="dzen-desktop--trends-entry-desktop"]
-! dzen.ru##picture[class*="dzen-desktop--trends-entry-desktop"]
 dzen.ru##div[class*="dzen-desktop--distribution"]
