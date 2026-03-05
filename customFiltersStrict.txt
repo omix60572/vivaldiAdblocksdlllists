@@ -73,7 +73,8 @@ pikabu.ru##.sidebar-pikabonus
 kinopoisk.ru##.ReactModalPortal
 kinopoisk.ru##div[class*="adfoxSpecialPopup"]
 kinopoisk.ru##div[class*="plusBadgeCounter"]
-kinopoisk.ru##div[class*="footerContainer"]
+kinopoisk.ru##footer[class*="footerContainer"]
+kinopoisk.ru##footer[class*="styles_withPromotionBlock"]
 kinopoisk.ru##div[aria-label="Промо"]
 kinopoisk.ru##div[class*="styles_abbreviated"]
 kinopoisk.ru##div[class*="style_buttonPlus"]
