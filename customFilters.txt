@@ -1,10 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: omix60572 vivaldiAdblockLists
 
-live.vkvideo.ru##[class*="CatalogShowcase_container"]
-live.vkvideo.ru##[class*="ChannelsRecommendations"]
-live.vkvideo.ru##[class*="Footer_container"]
-live.vkvideo.ru##[class*="ChannelsHistory_items"]
+live.vkvideo.ru##[class*="CatalogShowcase_container"], [class*="ChannelsRecommendations"], [class*="Footer_container"], [class*="ChannelsHistory_items"]
 
 ya.ru##.Distribution-Popup
 ya.ru##.DistributionPopup
