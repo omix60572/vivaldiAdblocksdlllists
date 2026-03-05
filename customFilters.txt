@@ -43,3 +43,4 @@ reddit.com###right-rail-experience-root
 
 dzen.ru##div[class*="dzen-desktop--corner-banner"]
 dzen.ru##div[data-testid="ad-banner"]
+dzen.ru###ya-dist-link_bro
