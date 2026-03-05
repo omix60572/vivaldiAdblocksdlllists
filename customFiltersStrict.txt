@@ -69,3 +69,8 @@ habr.com##section[type="banner"]
 pikabu.ru##.ads-placeholder
 pikabu.ru##.related-stories-feed
 pikabu.ru##.sidebar-pikabonus
+
+kinopoisk.ru##.ReactModalPortal
+kinopoisk.ru##div[class*="adfoxSpecialPopup"]
+kinopoisk.ru##div[class*="plusBadgeCounter"]
+kinopoisk.ru##div[class*="footerContainer"]
