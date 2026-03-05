@@ -2,12 +2,12 @@
 ! Title: omix60572 vivaldiAdblockLists
 
 live.vkvideo.ru##[class*="CatalogShowcase_container"], [class*="ChannelsRecommendations"], [class*="Footer_container"], [class*="ChannelsHistory_items"]
-yandex.ru, ya.ru, disk.yandex.ru##.DistributionPopup, .banner, #banner, div[aria-label="Рекламный баннер"], .DistributionLinkBro, .plus-link, li[class*="item_id_alice_tile"], .body__feed-wrapper
-dzen.ru##div[class*="dzen-desktop--corner-banner"], div[class*="dzen-desktop--top-app__bannerMain"], [data-testid="ad-banner"], #ya-dist-link_bro
+yandex.ru, ya.ru, disk.yandex.ru##.DistributionPopup, .banner, #banner, .body__feed-wrapper, .DistributionLinkBro, .plus-link, div[aria-label="Рекламный баннер"], li[class*="item_id_alice_tile"]
+dzen.ru###ya-dist-link_bro, div[class*="dzen-desktop--corner-banner"], div[class*="dzen-desktop--top-app__bannerMain"], [data-testid="ad-banner"]
 mail.ru##.balloon_ad-info
 twitch.tv##.front-page-carousel
 mail.rambler.ru##[class*="AddBillboard-root"]
 avito.ru##[class*="advert-serp-block-wrapper"], [class*="index-advRootWidgetNoStories"], [class*="advert-mimicry-block-wrapper"]
 rutube.ru##.premium-subscription-entrypoint-module__premium-entrypoint, #ADFOX_FEED_BANNER
-vk.com##div[data-testid="feed_apps_right_block"], #feed_recommends, #ads_wrapper, #ads_with_extra, #ads_leftmenu
+vk.com###feed_recommends, #ads_wrapper, #ads_with_extra, #ads_leftmenu, div[data-testid="feed_apps_right_block"],
 reddit.com###right-rail-experience-root
