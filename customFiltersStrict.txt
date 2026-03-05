@@ -17,6 +17,7 @@ mail.ru##.feed__content
 mail.ru##.tv-widget
 
 avito.ru##[data-marker*="top-notification"]
+avito.ru##div[data-element="beduin-v2/sx-banner"]
 
 disk.yandex.ru##.top-direct-line
 
