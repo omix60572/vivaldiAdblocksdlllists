@@ -15,3 +15,4 @@ translate.yandex.ru##.side-block
 habr.com##.tm-header__feature, .tm-widget-banner-content, [data-test-id="company-card-top-image"], [type="banner"]
 pikabu.ru##.ads-placeholder, .related-stories-feed, .sidebar-pikabonus
 kinopoisk.ru##.ReactModalPortal, [class*="adfoxSpecialPopup"], [class*="plusBadgeCounter"], [class*="footerContainer"], [class*="styles_withPromotionBlock"], [aria-label="Промо"], [class*="styles_abbreviated"], [class*="style_buttonPlus"], [class="yandex_music"]
+ya.ru##iframe[sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms"]
