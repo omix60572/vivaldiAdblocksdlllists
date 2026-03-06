@@ -2,7 +2,7 @@
 ! Title: omix60572 vivaldiAdblockLists strict
 
 mail.yandex.ru##.MenuItem_get-premium360, .promozavr-anchor-serviceAliceProButton, #js-mail-layout-content-header, #js-mail-layout-content-header-v1, [testid="orb-global-bar-monetization-item"], [data-test-id="promosideSheet"], [data-testid="get-premium360"], [data-testid="page-layout_right-column_container_v1"], [data-testid="page-layout_right-column_container"], [data-test-id="promopopup"]
-disk.yandex.ru##.top-direct-line
+disk.yandex.ru##.top-direct-line, [data-test-id="promotooltip"]
 yandex.ru##.ImageGeneration, .JustifierRowLayout-Incut, .SearchPrevention, [data-ssr-uid="4-3"]
 dzen.ru##div[class*="dzen-desktop--distribution"]
 mail.ru##.dzen-feed, #feed-tabs, .feed__content, .tv-widget
