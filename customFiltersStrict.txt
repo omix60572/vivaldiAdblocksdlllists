@@ -6,7 +6,7 @@ disk.yandex.ru##.top-direct-line
 yandex.ru##.ImageGeneration, .JustifierRowLayout-Incut, .SearchPrevention, .ImagesViewer-LayoutSideblock, [data-ssr-uid="4-3"], [data-test-id="promotooltip"]
 dzen.ru##div[class*="dzen-desktop--distribution"]
 mail.ru##.dzen-feed, #feed-tabs, .feed__content, .tv-widget
-avito.ru##[data-marker*="top-notification"], [data-element="beduin-v2/sx-banner"]
+avito.ru##[data-marker*="top-notification"], [data-element="beduin-v2/sx-banner"], li[data-id="promoCard"]
 rutube.ru##.search-result-module__shortsCarouselWrapper, .safe-mode-header-entrypoint-module__entrypoint, .wdp-carousel-module__carouselWrapper, .wdp-popup-overlay-module__overlay, [aria-label="Shorts"], [aria-label="Выбор RUTUBE"]
 vkvideo.ru##.vkuiBanner__host, #movies, #recommended_live_videos, #serials, #sport_videos, #trends_new_year_block, #tvshow_playlists, #vk_video_short_videos_top, [href="https://vkvideo.ru/legal/recommendations"], [data-testid="videos_short_video_slider_vk_video_short_videos_top"], [data-testid="videos_slider_horizontal_recommended_live_videos"], [data-testid="albums_slider_vertical_tvshow_playlists"], [data-testid="videos_slider_horizontal_sport_videos"], [data-testid="videos_showcase_list_showcase_horizontal_cards_movies_for_you"], [data-testid="videos_showcase_list_showcase_horizontal_cards_for_kids_trends_block"], [data-route-transition-via="catalog-clans"]
 vk.com##.stories_feed_wrap, .StoryFeedBlockWrapper, .EasterEggsContainer, #fastchat-reforged
