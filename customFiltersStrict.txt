@@ -12,7 +12,7 @@ vkvideo.ru##.vkuiBanner__host, #movies, #recommended_live_videos, #serials, #spo
 vk.com##.stories_feed_wrap, .StoryFeedBlockWrapper, .EasterEggsContainer, #fastchat-reforged
 hh.ru##.HH-ProxyExternalServiceLoader-careerPlatformFront, [class*="footer-mobile-banner"], [class*="footer-app-banner-redesign"], [data-qa="footer-recommendTechInfo"]
 translate.yandex.ru##.side-block
-habr.com##.tm-header__feature, .tm-widget-banner-content, [data-test-id="company-card-top-image"], [type="banner"], [data-test-id*="AdvertisingAndEvents"]
+habr.com##.tm-header__feature, .tm-widget-banner-content, [data-test-id="company-card-top-image"], [type="banner"], [data-test-id*="AdvertisingAnd"]
 pikabu.ru##.ads-placeholder, .related-stories-feed, .sidebar-pikabonus
 kinopoisk.ru##.ReactModalPortal, [class*="adfoxSpecialPopup"], [class*="plusBadgeCounter"], [class*="footerContainer"], [class*="styles_withPromotionBlock"], [aria-label="Промо"], [class*="styles_abbreviated"], [class*="style_buttonPlus"], [class="yandex_music"]
 ya.ru##.ImagesViewer-LayoutSideblock, .search3__doodle
