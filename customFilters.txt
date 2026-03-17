@@ -2,7 +2,7 @@
 ! Title: omix60572 vivaldiAdblockLists
 
 live.vkvideo.ru##[class*="CatalogShowcase_container"], [class*="ChannelsRecommendations"], [class*="Footer_container"], [class*="ChannelsHistory_items"], [class*="FeedbackAlert_root"]
-yandex.ru, ya.ru##.DistributionPopup, .banner, #banner, .body__feed-wrapper, .DistributionLinkBro, .plus-link, div[aria-label="Рекламный баннер"], li[class*="item_id_alice_tile"], [data-test-id="promofullscreen"]
+yandex.ru, ya.ru##.DistributionPopup, .banner, #banner, .body__feed-wrapper, .DistributionLinkBro, .plus-link, div[aria-label="Рекламный баннер"], li[class*="item_id_alice_tile"], [data-test-id="promofullscreen"], [id*="advRsyaReact"]
 dzen.ru###ya-dist-link_bro, div[class*="dzen-desktop--corner-banner"], div[class*="dzen-desktop--top-app__bannerMain"], [data-testid="ad-banner"]
 mail.ru##.balloon_ad-info
 twitch.tv##.front-page-carousel
